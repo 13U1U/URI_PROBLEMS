@@ -13,3 +13,4 @@ else:
             ren -= 4500
             ren = float(ren*0.28+350)
     print(f"R$ {ren:.2f}")
+#0.057 / 07.06.2021 / 3
